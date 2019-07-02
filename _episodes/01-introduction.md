@@ -1,15 +1,19 @@
 ---
-title: "Workshop content"
+title: "UPPMAX and HPC in a nutshell"
 teaching: 5
 exercises: 0
 questions:
-- "Who is this material for?"
-- "What is going to be covered?"
+- "What is UPPMAX?"
+- "What is SNIC?"
+- "What is SUPR?"
+- "What is HPC?"
 objectives:
-- "Explain what to expect in this online workshop."
+- "Explain who does what in the Swedish academic computing world."
 keypoints:
-- "This is for current and future users of UPPMAX and other SNIC HPC resources."
-- "The workshop includes an introduction to Linux and the environment at UPPMAX, a guide to applying for SNIC projects, and briefly covers Bash and Python scripting."
+- "Through its six nodes, SNIC provides free resources to Swedish academic research."
+- "UPPMAX is the Uppsala University HPC center and SNIC node."
+- "SUPR is the common user and project management portal for SNIC."
+- "HPC is an acronym that means High-Performance Computing, i.e. supercomputers."
 ---
 
 Content goes here. (FIXME)
