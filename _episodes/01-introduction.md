@@ -20,9 +20,7 @@ It can be difficult to navigate the different organisations, websites, and vario
 advice surrounding compute and storage resources in the academic world. This lesson will
 hopefully clarify what is what, who is who, and so on.
 
-## SNIC
-
-![SNIC logo](../fig/SNIClogo.png){:height="50%" width="50%"}
+## SNIC ![SNIC logo](../fig/SNIClogo.png){:height="20%" width="20%"}
 
 
 At the top, there is the [Swedish National Infrastructure for Computing (SNIC)](https://www.snic.se).
@@ -62,9 +60,9 @@ PI's create and submit proposals for project they would like to do, including re
 the resources they need. Proposals are then approved or denied by the allocation committee,
 [SNAC](https://www.snic.se/allocations/snac/), or its working group.
 
-## UPPMAX
+## UPPMAX ![UU logo](../fig/Uppsala_University_seal.png){:height="20%" width="20%"}
 
-![UU logo](../fig/Uppsala_University_seal.png){:height="50%" width="50%"}
+
 
 This material is written by UPPMAX, and the course is aimed primarily at new users of our systems.
 As already mentioned, UPPMAX is a part of Uppsala University. More specifically, we are a part
