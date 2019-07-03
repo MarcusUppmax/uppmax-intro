@@ -59,5 +59,34 @@ PI's create and submit proposals for project they would like to do, including re
 the resources they need. Proposals are then approved or denied by the allocation committee,
 [SNAC](https://www.snic.se/allocations/snac/), or its working group.
 
+## UPPMAX
+
+This material is written by UPPMAX, and the course is aimed primarily at new users of our systems.
+As already mentioned, UPPMAX is a part of Uppsala University. More specifically, we are a part
+of the Department of Information Technology. As a center at UU, we are more than merely part
+of the national HPC infrastructure, we also collaborate directly with researchers in a variety
+of ways. If your group has a special need for HPC-related resources or expertise, please contact
+our excellent support or our wonderful director.
+
+## Other organisations
+
+A few other organisations tend to be mentioned in the same breath as UPPMAX. Let's go over
+them here to avoid confusion in the future.
+
+UPPMAX hosts the SciLifeLab Compute and Storage facility, which is a part of the Bioinformatics
+Platform (NBIS). The purpose of this facility is two-fold: to act as a bridge between the support
+provided by NBIS and the support provided by SNIC/UPPMAX, and to support life science researchers'
+compute and storage needs more generally. The presence of this facility within UPPMAX is a
+result of, and contributes to, UPPMAX's focus on data-intensive sciences.
+
+[NBIS](www.nbis.se) is the national infrastructure for bioinformatics. They can provide expertise
+that is lacking in a group, either through an application procedure or for a fee. NBIS also
+provides [training](https://nbis.se/training/) in various methods and techniques.
+
+[NGI](https://www.scilifelab.se/platforms/ngi/) performs next-generation sequencing, genotyping,
+and related services. UPPMAX hosts a cluster that runs some of their production pipelines, as
+well as the [Grus data delivery server](https://ngisweden.scilifelab.se/info/Data%20delivery).
+For questions about data deliveries and Grus, please turn to NGI and not UPPMAX.
+
 {% include links.md %}
 
