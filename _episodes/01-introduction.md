@@ -22,7 +22,7 @@ hopefully clarify what is what, who is who, and so on.
 
 ## SNIC
 
-![SNIC logo](../fig/SNIClogo.png)
+![SNIC logo](../fig/SNIClogo.png | width=100)
 
 
 At the top, there is the [Swedish National Infrastructure for Computing (SNIC)](https://www.snic.se).
@@ -64,7 +64,7 @@ the resources they need. Proposals are then approved or denied by the allocation
 
 ## UPPMAX
 
-![UU logo](../fig/Uppsala_University_seal.png)
+![UU logo](../fig/Uppsala_University_seal.png | width=100)
 
 This material is written by UPPMAX, and the course is aimed primarily at new users of our systems.
 As already mentioned, UPPMAX is a part of Uppsala University. More specifically, we are a part
