@@ -22,6 +22,9 @@ hopefully clarify what is what, who is who, and so on.
 
 ## SNIC
 
+![SNIC logo](fig/SNIClogo.png)
+
+
 At the top, there is the [Swedish National Infrastructure for Computing (SNIC)](https://www.snic.se).
 SNIC is funded by the Research Council and a consortium of Swedish universities for the purpose
 of providing large-scale computing and storage infrastructure for Swedish academic research.
@@ -60,6 +63,8 @@ the resources they need. Proposals are then approved or denied by the allocation
 [SNAC](https://www.snic.se/allocations/snac/), or its working group.
 
 ## UPPMAX
+
+![UU logo](fig/Uppsala_University_seal.png)
 
 This material is written by UPPMAX, and the course is aimed primarily at new users of our systems.
 As already mentioned, UPPMAX is a part of Uppsala University. More specifically, we are a part
